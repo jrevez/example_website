@@ -1,0 +1,16 @@
+---
+title: "R Markdown Website"
+---
+
+This is the home page of a simple R Markdown Website. In this example we have two pages:
+
+  - **Home page:** The first page of the website. When you create your own website, you can make this an introductory page of what your project is, for example. 
+  - **How to build your own website:** This page includes:
+      - Information on what software and files are required to build an R Markdown website
+      - Information on how to configure your website
+      - Step-by-step instructions to build and publish your website
+      - Links to useful online resources to enhance your website
+  
+You can navigate between the pages using the navigation bar at the top of the website.
+
+This website is hosted in [https://jrevez.github.io/example_website/](https://jrevez.github.io/example_website/).

@@ -110,7 +110,8 @@ After a few minutes, your website will be published and the corresponding URL wi
 There are many features that you can add to your website. Below is a list of links to useful online resources that you can explore to build your R Markdown website.
 
 [R Markdown Website instructions](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html)  
+[Getting started with R Markdown](https://rmarkdown.rstudio.com/lesson-2.html)   
 [Markdown Basics](https://rmarkdown.rstudio.com/authoring_basics.html)  
 [R Markdown Cheat Sheets](https://rstudio.com/resources/cheatsheets/)  
-[R Markdown Website example1](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)
+[R Markdown Website example1](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)  
 [R Markdown Website example2](https://jules32.github.io/rmarkdown-website-tutorial/index.html)

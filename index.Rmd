@@ -13,4 +13,4 @@ This is the home page of a simple R Markdown Website. In this example we have tw
   
 You can navigate between the pages using the navigation bar at the top of the website.
 
-This website is hosted in [https://jrevez.github.io/example_website/](https://jrevez.github.io/example_website/).
+This website is hosted in [https://github.com/jrevez/example_website](https://github.com/jrevez/example_website).

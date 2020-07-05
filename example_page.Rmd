@@ -97,7 +97,7 @@ Once you created your local version of the website, you need to sync the project
 After a few minutes, your website will be published and the corresponding URL will be displayed in the "GitHub Pages" section in green background (see example below). 
 
 <center>
-<img src="/Users/j.revez/Documents/workshops_tutorials/rmd_website/example_website/images/site_URL.png" alt="img" width="500" height="600">
+<img src="/Users/j.revez/Documents/workshops_tutorials/example_website/images/site_URL.png" alt="img" width="500" height="600">
 </center>
 
 

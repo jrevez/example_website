@@ -45,7 +45,7 @@ The `_site.yml` file is used to configure how your website is generated. Below a
 **Example 1** shows how a `_site.yml` file (left), and what the corresponding website (right) looks like. In that example we have the following fields:
 
   - **name:** A suggested URL path for your website when it is published (by default this is just the name of the directory containing the site)
-  - **navbar**: Instructions on how the navigation bar at the top of the website should look like. In the example above we have:
+  - **navbar**: Instructions on how the navigation bar at the top of the website should look like. In this example we have:
     - **title:** The title of your website
     - **left:** An option to specify that the website page names should be aligned on the left
         - **text:** The name of each of the pages (how it will appear on the website)
